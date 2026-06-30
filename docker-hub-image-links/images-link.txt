@@ -1,0 +1,5 @@
+Vote image - https://hub.docker.com/r/dockersamples/examplevotingapp_vote
+Result image - https://hub.docker.com/r/dockersamples/examplevotingapp_result
+Worker image - https://hub.docker.com/r/dockersamples/examplevotingapp_worker
+Redis image - https://hub.docker.com/_/redis
+Postgres image - https://hub.docker.com/_/postgres
